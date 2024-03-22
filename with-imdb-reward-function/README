@@ -1,2 +1,4 @@
 GPT-2-imdb pretrained model fed TLDR sentiment labelled data from my huggingface (turne292)
 it is trained using the distilbert-imdb reward function to make output more positive
+small dataset: https://huggingface.co/datasets/turne292/tldr_sentiment_data_small_v2 
+full dataset: https://huggingface.co/datasets/turne292/tldr_sentiment
