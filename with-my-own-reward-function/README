@@ -1,1 +1,3 @@
 this is the model that was trained using my own reward fucntion, as well as the reward fucntion creation
+this model performs incredibly poorly- most likely due to poor fine-tuning of the distilbert model being used in the reward function. 
+
