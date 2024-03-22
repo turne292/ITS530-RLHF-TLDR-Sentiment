@@ -1,3 +1,5 @@
 this is the model that was trained using my own reward fucntion, as well as the reward fucntion creation
 this model performs incredibly poorly- most likely due to poor fine-tuning of the distilbert model being used in the reward function. 
 
+dilstilert-tldr-fine: distilbert fine-tuned on full dataset available: https://huggingface.co/turne292/distilbert-tldr-fine
+dilstilert-tldr-fine-SMALL: distilbert fine-tuned on small dataset available: https://huggingface.co/turne292/distilbert-tldr-fine-small
